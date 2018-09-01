@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Respoke
 x-complete: 0
 info:
-  title: Respoke REST API App Auth Sessions
+  title: Respoke App Auth Sessions
   description: Your users authenticate to Respoke using an App-Token obtained when
     they POST your tokenId to [base]/appauthsessions.
   termsOfService: https://www.respoke.io/files/respoke-tos-20141007.pdf

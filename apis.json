@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Respoke",
+	"description": "This is a repository of respoke APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/respoke.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://respoke.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Respoke",
+			"x-api-slug": "respoke",
+			"description": "Respoke makes it incredibly easy to add real-time communications capabilities to the things you build. Integrate text chat, audio calling, video collaboration, screen sharing, and peer-to-peer data with just a few lines of JavaScript.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/respoke-web-communications-300x101.jpg",
+			"humanURL": "https://www.respoke.io",
+			"baseURL": "https://api.respoke.io/v1/",
+			"tags": "Respoke",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/respoke/master/_listings/respoke/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Respoke",
+	"include": [
+		{
+			"name": "Respoke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/respoke/master/_listings/respoke/apis.yaml"
+		}
+	]
+}

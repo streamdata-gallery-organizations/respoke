@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Respoke
 x-complete: 0
 info:
-  title: Respoke REST API Permissions
+  title: Respoke Permissions
   description: Full API permissions are obtained by POSTing your username and password
     to [base]/adminsessions.
   termsOfService: https://www.respoke.io/files/respoke-tos-20141007.pdf
